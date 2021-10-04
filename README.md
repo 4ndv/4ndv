@@ -1,4 +1,4 @@
-# Andrey Viktorov
+# Hi, I'm Andrey
 
 Quick links: [Personal website](https://lynx.pink) / [CV](https://lynx.pink/cv) / [Polywork](https://poly.work/lynx) / [Habr.Career](https://career.habr.com/andvxyz) / [Twitter](https://twitter.com/libneko) / [Telegram](https://telegram.org/libneko) / [Matrix](https://matrix.to/#/@libneko:matrix.org) / [Medium](https://andv.medium.com)
 
