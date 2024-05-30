@@ -2,7 +2,7 @@
 
 Quick links: [Personal website](https://lynx.pink) / [CV](https://lynx.pink/cv) / [Polywork](https://poly.work/lynx) / [Habr.Career](https://career.habr.com/andvxyz) / [Twitter](https://twitter.com/libneko) / [Telegram](https://t.me/feeleenee) / [Matrix](https://matrix.to/#/@libneko:matrix.org) / [Medium](https://andv.medium.com)
 
-Working at: [S2](https://salesap.ru)
+Working at: %Some-Still-Unnamed-Startup%
 
 Areas of interest: Ruby, Rails, React, Infosec, Online censorship
 
