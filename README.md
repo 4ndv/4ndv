@@ -1,6 +1,6 @@
 # Hi, I'm Andrey
 
-Quick links: [Personal website / Blog](https://lynx.st) / [CV](https://lynx.st/cv) / [Polywork](https://poly.work/lynx) / [Habr.Career](https://career.habr.com/andvxyz) / [Mastodon (RU)](https://mastodon.social/@baka) / [Mastodon (EN)](https://techhub.social/@lynx) / [Telegram](https://t.me/feeleenee)
+Quick links: [Personal website / Blog](https://lynx.st) / [CV](https://lynx.st/cv) / [Habr.Career](https://career.habr.com/andvxyz) / [Mastodon (RU)](https://mastodon.social/@baka) / [Mastodon (EN)](https://techhub.social/@lynx) / [Telegram](https://t.me/feeleenee)
 
 Areas of interest: Ruby, Rails, React, Infosec, Online censorship
 
